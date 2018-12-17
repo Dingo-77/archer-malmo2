@@ -1,0 +1,44 @@
+h1{
+	color: white;
+}
+
+
+body{
+	background-color: #C4F1BE;
+}
+	*{
+		font-family: 'Merriweather', serif;
+	}
+	
+	.title{
+		background-color:#0A2472; 
+		width:60%;
+		text-align:center;
+		padding: 20px 20px 20px 20px;
+		margin: 0 20% 50px 20%;
+	}
+
+	.B{
+		background-color:#ACDDE7; 
+		width:60%;
+		text-align:center;
+		padding: 20px 20px 20px 20px;
+		margin: 0 20% 50px 20%;
+	}
+
+
+	.U{
+		background-color:#C4BBB8; 
+		width:60%;
+		text-align:center;
+		padding: 20px 20px 20px 20px;
+		margin: 0 20% 50px 20%;
+	}
+
+	.D{
+		background-color:#D0B8AC;
+		width:60%;
+		text-align:center;
+		padding: 20px 20px 20px 20px;
+		margin: 0 20% 50px 20%;
+	}
